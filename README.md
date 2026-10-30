@@ -1,6 +1,19 @@
-## Hi there! my name is Rodrigo teles Dondé ⚛️
+# Rodrigo Teles Dondé
 
-I'm studying Systems Analysis and Development.
+Desenvolvo projetos de inteligência artificial aplicada à indústria, com foco em aprendizado de máquina, manutenção preditiva, séries temporais e IA embarcada.
+
+## Formação acadêmica
+
+- **Graduação em Análise e Desenvolvimento de Sistemas** — Centro Universitário SENAI/SC (UniSENAI), 2022–2024. Concluída.
+- **Pós-graduação em Inteligência Artificial para a Indústria** — concluída.
+
+## Residência em IA
+
+**Programa de Residência em Inteligência Artificial para a Indústria** — concluído.
+
+Meu portfólio reúne projetos acadêmicos e colaborativos em Python, Machine Learning, Deep Learning e TinyML. A participação e os créditos dos integrantes estão documentados em cada projeto.
+
+[Currículo Lattes](https://lattes.cnpq.br/8479409040028449)
 
 <hr>
 
@@ -8,13 +21,13 @@ I'm studying Systems Analysis and Development.
 
 <hr>
 
-### 📫 How to reach me:
+## Contato
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigotdonde@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/RodrigoTDonde-1b0130226/)
 
 <hr>
 
-### Technologies and Tools:
+## Tecnologias e ferramentas
 
 <div>
   <img align="center" alt="HTML" width="50" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" >
