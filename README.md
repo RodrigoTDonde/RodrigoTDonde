@@ -5,11 +5,11 @@ Desenvolvo projetos de inteligência artificial aplicada à indústria, com foco
 ## Formação acadêmica
 
 - **Graduação em Análise e Desenvolvimento de Sistemas** — Centro Universitário SENAI/SC (UniSENAI), 2022–2024. Concluída.
-- **Pós-graduação em Inteligência Artificial para a Indústria** — concluída.
+- **Pós-graduação em Inteligência Artificial Aplicada à Indústria** — Faculdade de Tecnologia SENAI Florianópolis (SENAI-SC / CTAI). Concluída em outubro de 2025.
 
 ## Residência em IA
 
-**Programa de Residência em Inteligência Artificial para a Indústria** — concluído.
+**Programa de Residência em Inteligência Artificial Aplicada à Indústria** — Faculdade de Tecnologia SENAI Florianópolis (SENAI-SC / CTAI). Concluído em outubro de 2025.
 
 Meu portfólio reúne projetos acadêmicos e colaborativos em Python, Machine Learning, Deep Learning e TinyML. A participação e os créditos dos integrantes estão documentados em cada projeto.
 
